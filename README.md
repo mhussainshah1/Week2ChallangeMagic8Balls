@@ -1,6 +1,6 @@
 # Week Two Challenge - Magic 8-Ball
 
-Create a program that mimics the Magic 8 Ball. If you don't know what a Magic 8 Ball is ... it's a toy ball containing a clear 'window'. You shake the ball and ask it a question. A random response rises to the window. You can read about the Magic 8 Ball on Wikipedia (Links to an external site).Links to an external site.
+Create a program that mimics the Magic 8 Ball. If you don't know what a Magic 8 Ball is ... it's a toy ball containing a clear 'window'. You shake the ball and ask it a question. A random response rises to the window. You can read about the Magic 8 Ball on [Wikipedia](https://en.wikipedia.org/wiki/Magic_8-Ball)
 
 Your program will prompt the user for a question and select a random answer from the list below. See the required output below the responses.
 
