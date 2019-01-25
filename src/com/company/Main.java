@@ -51,6 +51,7 @@ public class Main {
     }
 
     public static int getRandomNumber(int max){
-        return 1+ (int)(Math.random()*max);
+        int randomNumber = 1 + (int)(Math.random()*max);
+        return randomNumber;
     }
 }
